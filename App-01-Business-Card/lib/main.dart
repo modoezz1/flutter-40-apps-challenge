@@ -107,7 +107,6 @@ class Business_App extends StatelessWidget {
             ),
           ],
         ),
-
         backgroundColor: Color(0xFF1C456B),
       ),
     );
