@@ -1,4 +1,4 @@
-# app_02_basketball_points
+# App_02_Basketball_Points
 
 A new Flutter project.
 
