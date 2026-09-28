@@ -1,14 +1,13 @@
-#  Flutter 40 Apps Challenge
+# 🚀 Flutter 40 Apps Challenge
 
-A personal challenge to build 40 Flutter apps
-and improve my Flutter & Dart skills step by step.
+A personal challenge to build **40 Flutter apps** and improve my Flutter & Dart skills step by step.
 
 ## 📱 Apps Progress
 
 | # | App | Status |
 |---|-----|--------|
 | 01 | Business Card | ✅ Completed |
-| 02 | Coming Soon | ⏳ |
+| 02 | Basketball Points | ✅ Completed |
 | 03 | Coming Soon | ⏳ |
 | 04 | Coming Soon | ⏳ |
 | 05 | Coming Soon | ⏳ |
@@ -50,17 +49,38 @@ and improve my Flutter & Dart skills step by step.
 
 ## 🎯 Goal
 
-Build 40 different Flutter apps while improving my skills in:
+Build **40 different Flutter apps** while improving my skills in:
+
+- 🎨 UI Design
+- 🧩 Flutter Widgets
+- 🧠 Dart
+- 📱 Responsive UI
+- 🔄 State Management
+- 🔌 APIs
+- 💾 Local Storage
+- 🏗️ App Architecture
+
+## 📊 Progress
+
+**2 / 40 Apps Completed** 🚀
+
+`████░░░░░░░░░░░░░░░░` **5%**
+
+---
+
+### 🛠️ Tech Stack
 
 - Flutter
 - Dart
-- UI Development
-- Widgets
-- Layouts
-- State Management
-- APIs
-- Firebase
+- Android Studio / VS Code
+- Git & GitHub
 
-## 📈 Progress
+---
 
-**1 / 40 Apps Completed** 🚀
+### 📂 Projects
+
+Each app is organized in its own folder inside this repository.
+
+---
+
+⭐ Follow the journey as I build **40 Flutter apps** from scratch!
